@@ -1,0 +1,28 @@
+body{
+    font-family: Helvetica;
+    background-color: #fdfbfb;
+}
+
+h1{
+    color:#0a64b3
+    font-size: 40px;
+}
+
+header{
+    background-color: #042581e8;
+    color: #eff2f6ec;
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+nav button{
+    background-color: #fffffff2;
+    color: #000000;
+    border: none;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
